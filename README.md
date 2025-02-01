@@ -39,8 +39,7 @@
     <img src="zorrocoin-logo.png" alt="ZorroCoin Logo" class="logo">
     <h1 class="hero">The Masked Crypto Revolution Has Begun! ⚔️💰</h1>
     <p>Justice, Memes & DeFi – The Z Way!</p>
-    <img src="trump-zorro.gif" alt="Trump as Zorro" class="gif">
-    <p>Starring Donald Trump as Zorro and Melania as his loyal partner!</p>
+    <img src="zorro-meme.gif" alt="Zorro Meme" class="gif">
     <a href="#buy" class="button">Buy $ZORRO Now</a>
     <h2>Tokenomics</h2>
     <p>🔥 Total Supply: 1,000,000,000 $ZORRO</p>
